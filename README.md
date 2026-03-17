@@ -1,52 +1,50 @@
-## Hi there 👋, I'm Muawia Imtiaz
+# Hi, I'm Muawia Imtiaz 👋
 
-![Typing Effect](https://readme-typing-svg.demolab.com?size=35&color=FF5733&width=600&lines=Hi+there!+I'm+Muawia;Full+Stack+AI+Engineer;Building+Amazing+Projects)
-
-![Coding GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
----
-
-### 💻 About Me
-- 🔭 Currently working on **Offline POS Systems & 3D Event Websites**
-- 🌱 Learning **Advanced AI & SaaS Architecture**
-- 👯 Looking to collaborate on **full stack & AI projects**
-- ⚡ Fun Fact: I love turning complex ideas into **simple, beautiful apps**
+💻 **Full Stack AI Engineer | Python & SaaS Developer**  
+🌱 I’m currently learning **Advanced AI & SaaS Architecture**  
+🎯 I build **offline POS systems, inventory management tools, and 3D web experiences**  
 
 ---
 
-### 🛠 Skills & Technologies
+## 🛠 Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Languages & Frameworks:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+
+**Databases & Tools:**  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🔭 Featured Projects
+## 📂 Featured Projects
 
-#### 1️⃣ Offline POS System
+### 1. Offline POS System
 ![POS Screenshot](https://via.placeholder.com/350x150.png?text=Offline+POS)
-💻 Tech: Python, Electron, SQLite  
-🔗 [Repository](https://github.com/Muawiaimtiaz1/offline-pos) | 🔗 [Demo](#)
+- **Tech:** Python, Electron, SQLite  
+- **Description:** A complete offline point-of-sale system including inventory, billing (QR code & printing), and stock management.  
+- [Repository](https://github.com/Muawiaimtiaz1/offline-pos) | [Demo](#)
 
-#### 2️⃣ 3D Event Website
+### 2. 3D Event Website
 ![3D Web Screenshot](https://via.placeholder.com/350x150.png?text=3D+Event+Website)
-💻 Tech: React, Three.js  
-🔗 [Repository](https://github.com/Muawiaimtiaz1/3d-event-web) | 🔗 [Live Demo](#)
+- **Tech:** React, Three.js  
+- **Description:** Interactive 3D website for event management showcasing decoration and immersive visuals.  
+- [Repository](https://github.com/Muawiaimtiaz1/3d-event-web) | [Live Demo](#)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Muawia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muawiaimtiaz1&show_icons=true&theme=radical&count_private=true)  
+![Muawia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muawiaimtiaz1&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muawiaimtiaz1&layout=compact&theme=radical)
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muawia/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
@@ -54,7 +52,6 @@
 
 ---
 
-### ⚡ Fun Fact
-I love building **offline SaaS systems**, creating **mini 3D web worlds**, and exploring **new AI tools**! 🌌  
-
-![End GIF](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
+### ⚡ About Me
+I specialize in building **robust offline SaaS solutions**, **inventory & stock management tools**, and **interactive web experiences**.  
+I enjoy turning **complex workflows into simple, elegant apps**.
