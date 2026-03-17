@@ -1,10 +1,16 @@
 ## Hi there 👋, I'm Muawia Imtiaz
 
-![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+![Typing Effect](https://readme-typing-svg.demolab.com?size=35&color=FF5733&width=600&lines=Hi+there!+I'm+Muawia;Full+Stack+AI+Engineer;Building+Amazing+Projects)
 
-💻 **Full Stack AI Engineer | Python Enthusiast | SaaS Developer**  
-🌱 Currently learning **Advanced AI & SaaS Architectures**  
-🎯 Passionate about building **offline POS systems** and **3D web experiences**  
+![Coding GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
+---
+
+### 💻 About Me
+- 🔭 Currently working on **Offline POS Systems & 3D Event Websites**
+- 🌱 Learning **Advanced AI & SaaS Architecture**
+- 👯 Looking to collaborate on **full stack & AI projects**
+- ⚡ Fun Fact: I love turning complex ideas into **simple, beautiful apps**
 
 ---
 
@@ -35,12 +41,12 @@
 
 ### 📊 GitHub Stats
 
-![Muawia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muawiaimtiaz1&show_icons=true&theme=radical)  
+![Muawia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muawiaimtiaz1&show_icons=true&theme=radical&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muawiaimtiaz1&layout=compact&theme=radical)
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muawia/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
@@ -49,4 +55,6 @@
 ---
 
 ### ⚡ Fun Fact
-I love turning **complex ideas into simple apps** and sometimes create **mini 3D worlds** just for fun! 🌌
+I love building **offline SaaS systems**, creating **mini 3D web worlds**, and exploring **new AI tools**! 🌌  
+
+![End GIF](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
